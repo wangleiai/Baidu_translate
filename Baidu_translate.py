@@ -154,7 +154,7 @@ def run():
   if len(sys.argv) == 1 or '-h' in sys.argv:
     print('\t\tcha Usage:\tcha [your words]')
     print('\tExample:')
-    print('\t1. cha lucky\n\t2. cha 苹果\n\t3. cha I am here')
+    print('\t1. cha lucky\n\t2. cha 真是丑陋的内心啊\n\t3. cha I am here')
     sys.exit(-1)
     
   # session: keep headers and cookies effective
